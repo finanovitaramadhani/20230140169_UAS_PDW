@@ -1,74 +1,24 @@
-UJIAN AKHIR SEMESTER
-Praktikum Pengembangan Desain Web
-1.	Register 
- ![image](https://github.com/user-attachments/assets/211d2db4-0d47-4962-aff0-17c7f8a1ef02)
- ![image](https://github.com/user-attachments/assets/5d094cf8-ac61-41f8-a528-b5b4f6997162)
-
-2.	Login
- ![image](https://github.com/user-attachments/assets/4fb19bfb-a9d9-4e9f-9a84-08162a939d0f)
-
-3.	Dashboard Mahasiswa
- ![image](https://github.com/user-attachments/assets/12128de7-8618-4c6a-8748-6f6f4bc94d21)
-
-4.	Katalog Praktikum
- ![image](https://github.com/user-attachments/assets/8bee9747-6e1b-4b78-8dcd-ec2d8b4514bc)
-
-5.	Praktikum Saya
- ![image](https://github.com/user-attachments/assets/853d9bea-88b3-48cc-ba10-9060f655f83b)
-
-6.	Detail Praktikum (setelah menambahkan file)
- ![image](https://github.com/user-attachments/assets/44dd216c-4b56-45d1-b922-eb882e07144d)
-
-7.	Dashboard Asisten
- ![image](https://github.com/user-attachments/assets/fd3a9af5-2659-4245-bf4f-bb3be8a15172)
-
-8.	Kelola mata praktikum
- ![image](https://github.com/user-attachments/assets/dfd22709-18ba-423d-8613-6a259ce51675)
-
-9.	Laporan Masuk
-a.	Tampilan 1
- ![image](https://github.com/user-attachments/assets/e72b59c2-d13c-4843-a39e-df3b2ed73b25)
-
-b.	Tampilan 2
- ![image](https://github.com/user-attachments/assets/6c663e52-aac4-4444-97d6-e1aef309b11b)
-
-c.	Tampilan 3
- ![image](https://github.com/user-attachments/assets/7befdfed-90cd-49af-b394-5d79f8e34fce)
-
-d.	Tampilan 4
- ![image](https://github.com/user-attachments/assets/42009f51-b18b-49d3-ae8c-923a43c3233f)
-
-e.	Tampilan 5
- ![image](https://github.com/user-attachments/assets/a4267c07-1e67-4b6c-ad0c-b8d260c54c92)
-
-10.	Kelola Praktikum
-a.	Tampilan 1
- ![image](https://github.com/user-attachments/assets/b24f13d8-1498-4f1a-ba3f-529b457ff0d3)
-
-b.	Tampilan 2
- ![image](https://github.com/user-attachments/assets/aab34067-a3f3-4ef4-b757-18a285858993)
-
-c.	Tampilan 3
- ![image](https://github.com/user-attachments/assets/2abfe0f0-12a4-457a-96b4-40f795c31924)
-
-11.	 Manajemen Modul
-a.	Tampilan 1
- ![image](https://github.com/user-attachments/assets/ec6680d6-5851-455a-97de-f08fe132c1a1)
-
-b.	Tampilan 2
- ![image](https://github.com/user-attachments/assets/71fac16f-9d1d-4cbe-bcdd-0cf5c48e705d)
-
-c.	Tampilan 3
- ![image](https://github.com/user-attachments/assets/843b0b47-4c3a-4eee-9a8b-4da046121582)
-
-d.	Tampilan 4 setelah di edit
- ![image](https://github.com/user-attachments/assets/f89c647c-865a-4918-9880-be8a433cdaec)
-
-e.	Tampilan 5 setelah dihapus
- ![image](https://github.com/user-attachments/assets/c11efe81-51d2-403c-a2d6-099a899228e3)
- ![image](https://github.com/user-attachments/assets/24eb75ce-0bed-4555-8f1b-4fb073ae25a7)
-
-12.	Kelola Pengguna
- ![image](https://github.com/user-attachments/assets/d9d8a2d6-d3c6-4e26-a76d-85064933f6de)
-
+![Cuplikan layar 2025-07-06 191711](https://github.com/user-attachments/assets/30c23032-d309-4cf2-8ab1-670a19c6f49d)
+![Cuplikan layar 2025-07-06 191759](https://github.com/user-attachments/assets/fb795f44-a68b-4c98-a9f6-81d057a9365e)
+![Cuplikan layar 2025-07-06 174634](https://github.com/user-attachments/assets/1db9dece-4bf5-42c3-90a0-779919010ba7)
+![Cuplikan layar 2025-07-06 175253](https://github.com/user-attachments/assets/01cbd010-ec10-46ca-96fb-571971e8aa24)
+![Cuplikan layar 2025-07-06 175350](https://github.com/user-attachments/assets/85ec83ce-e4a9-49b0-a1de-a18535a4c263)
+![Cuplikan layar 2025-07-06 175438](https://github.com/user-attachments/assets/0d578f0c-4675-4091-bd2e-93b933795153)
+![Cuplikan layar 2025-07-06 175540](https://github.com/user-attachments/assets/8b063b65-50b9-4ddc-84d3-9be705ae0035)
+![Cuplikan layar 2025-07-06 175637](https://github.com/user-attachments/assets/ec7ebdc9-3709-4f0d-ae94-449e294903c3)
+![Cuplikan layar 2025-07-06 175854](https://github.com/user-attachments/assets/f65f9036-76b6-4bb4-9561-358cac20b22e)
+![Cuplikan layar 2025-07-06 180016](https://github.com/user-attachments/assets/a4ab85a6-19dc-427a-811f-23d1df84c0e8)
+![Cuplikan layar 2025-07-06 180140](https://github.com/user-attachments/assets/50d1b68a-e01c-42ce-96f4-013c87be60b8)
+![Cuplikan layar 2025-07-06 180317](https://github.com/user-attachments/assets/87c9bc46-6890-429c-9986-998fa3249da5)
+![Cuplikan layar 2025-07-06 180404](https://github.com/user-attachments/assets/7373fd82-309e-4d48-930a-718e9b4d7020)
+![Cuplikan layar 2025-07-06 175750](https://github.com/user-attachments/assets/1af52260-2eb7-4006-b99c-9ad2861f039e)
+![Cuplikan layar 2025-07-06 180603](https://github.com/user-attachments/assets/7870155b-7cb4-46c9-9605-df24e586fd19)
+![Cuplikan layar 2025-07-06 180656](https://github.com/user-attachments/assets/296bcc50-2ac5-4848-8a60-0813ce6fc099)
+![Cuplikan layar 2025-07-06 180906](https://github.com/user-attachments/assets/707030c2-4ab7-44fb-bfb7-542459ccfd10)
+![Cuplikan layar 2025-07-06 181044](https://github.com/user-attachments/assets/d5bc3033-837d-4d75-a546-3ca5445cd107)
+![Cuplikan layar 2025-07-06 181245](https://github.com/user-attachments/assets/743d2445-8550-4509-a2e5-a8e122659699)
+![Cuplikan layar 2025-07-06 181424](https://github.com/user-attachments/assets/4b848b41-36e9-4c96-a51b-931e275f5e68)
+![Cuplikan layar 2025-07-06 181523](https://github.com/user-attachments/assets/ab334dcf-03c1-4332-b05b-e468edbdd3c6)
+![Cuplikan layar 2025-07-06 181554](https://github.com/user-attachments/assets/4185cb76-f9fb-4056-90f8-94ec98d04e25)
+![Cuplikan layar 2025-07-06 182039](https://github.com/user-attachments/assets/3b761a57-1f0a-45b3-9c72-37a32b3eb0ed)
 
